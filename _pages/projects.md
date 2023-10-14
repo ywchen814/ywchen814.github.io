@@ -28,7 +28,7 @@ horizontal: false
         }
 
         .title {
-            font-size: 24px; /* Adjust the font size as needed */
+            font-size: 22px; /* Adjust the font size as needed */
             <!-- font-weight: bold; /* Optional: Set font weight if desired */ -->
         }
     </style>
@@ -62,7 +62,7 @@ horizontal: false
 <div class="role">
     <img src="../assets/img/5.jpg" alt="Image">
     <div>
-        <div class="title"><a href="https://github.com/ywchen814/CreditCard-Default-Analysis"> Predicting Credit Card Default Using Machine Learning Techniques</a></div>
+        <div class="title"><a href="https://github.com/ywchen814/CreditCard-Default-Analysis">Predicting Credit Card Default Using Machine Learning Techniques</a></div>
         <p> Applied various machine learning models to understand the factors contributing to default and improve prediction accuracy</p>
     </div>
 </div>
