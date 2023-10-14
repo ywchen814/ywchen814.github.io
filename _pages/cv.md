@@ -4,8 +4,8 @@ permalink: /cv/
 title: Resume
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Grant_Chen_Resume.pdf
+description: Feel Free to Downloadm my Resume to learn more about me.
 toc:
   sidebar: left
 ---
