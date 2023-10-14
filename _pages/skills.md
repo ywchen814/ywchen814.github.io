@@ -56,12 +56,13 @@ Unsupervised Learning
 - K-Means Clustering
 - Hierarchical Clustering
 - Principal Component Analysis (PCA)
-- Latent Dirichlet allocation (LDA)  
+- Latent Dirichlet allocation (LDA)
+  
 Convolutional Neural Networks (CNN)  
 Graph Neural Network (GNN)
 
 ###### **Natural Language Processing (NLP)**
-Text Processing  
-Sentiment Analysis  
-Topic Modeling  
+- Text Processing  
+- Sentiment Analysis  
+- Topic Modeling  
 
