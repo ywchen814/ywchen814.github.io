@@ -2,7 +2,7 @@
 layout: page
 permalink: /skills/
 title: Technical Skills
-description: 'Embracing Innovation Techniques in Problem-Solving: A Path of Continuous Learning and Growth'
+description: 'Embracing Innovation Techniques in Problem-Solving: Continuous Learning and Growth'
 nav: True
 nav_order: 3
 ---
