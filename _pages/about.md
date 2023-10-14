@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Statistician | Data Scientist | Problem Solver
+subtitle: Statistician | Data Scientist
 
 profile:
   align: right
