@@ -26,7 +26,7 @@ Tableau / PowerBI / Matplotlib/ ggplot2
 Git / Docker / AWS / Linux / Bash
  
 
-###### **Machine learning Applicaito**
+###### **Machine learning Applicaiton**
 - Churn Prediction Model  
 - Credit Risk Modeling 
 - Price and Volume Forcasting  

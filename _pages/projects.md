@@ -39,7 +39,7 @@ horizontal: false
     <img src="../assets/img/1.jpg" alt="Image">
     <div>
         <div class="title"><a href="https://github.com/ywchen814/ExpoRecSys-Item-Recommendation-with-Flask-API-and-Elasticsearch">ExpoRecSys: Item Recommendation with Flask API and Elasticsearch</a></div>
-        <p>Deploy Unsupervised Item-Based Recommendation Model for the exhibition industry, leveraging Sentence-BERT to extract valuable information from product text descriptions</p>
+        <p>Deploy Unsupervised Item-Based Recommendation Model for the exhibition industry, leveraging Sentence-BERT to extract valuable information from product text descriptions.</p>
     </div>
 </div>
 
@@ -47,7 +47,7 @@ horizontal: false
     <img src="../assets/img/3.jpg" alt="Image">
     <div>
         <div class="title"><a href="https://github.com/ywchen814/Sales-Forecast-API-with-mlforecast">SalesForecast API with mlforecast</a></div>
-        <p>A cutting-edge sales forecasting system tailored specifically for the agricultural sector</p>
+        <p>A cutting-edge sales forecasting system tailored specifically for the agricultural sector.</p>
     </div>
 </div>
 
@@ -55,7 +55,7 @@ horizontal: false
     <img src="../assets/img/4.jpg" alt="Image">
     <div>
         <div class="title"><a href="https://github.com/ywchen814/Telco-Customer-Churn-Prediction">Telco Churn Prediction with ML Insights 📈</a></div>
-        <p>Predictive Modeling for Telecom Customer Churn: A Comparative Study of Machine Learning Algorithms</p>
+        <p>Predictive Modeling for Telecom Customer Churn: A Comparative Study of Machine Learning Algorithms.</p>
     </div>
 </div>
 
@@ -63,7 +63,7 @@ horizontal: false
     <img src="../assets/img/5.jpg" alt="Image">
     <div>
         <div class="title"><a href="https://github.com/ywchen814/CreditCard-Default-Analysis">Predicting Credit Card Default Using Machine Learning Techniques</a></div>
-        <p> Applied various machine learning models to understand the factors contributing to default and improve prediction accuracy</p>
+        <p> Applied various machine learning models to understand the factors contributing to default and improve prediction accuracy.</p>
     </div>
 </div>
 
